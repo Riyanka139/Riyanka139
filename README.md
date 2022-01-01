@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riyanka139
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NODEJS
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning React Native
 - 📫 reach me : riyanka139@gmail.com
 
 <!---
