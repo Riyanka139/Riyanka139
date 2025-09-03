@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riyanka139
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Angular and React Native
 - 📫 reach me : riyanka139@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Riyanka139)](https://github.com/ryo-ma/github-profile-trophy)
