@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Riyanka139
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Angular and React Native
-- 📫 reach me : riyanka139@gmail.com
+# Hi, I'm Riyanka 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Riyanka139)](https://github.com/ryo-ma/github-profile-trophy)
+### Full-Stack Developer | Backend Engineer
 
-<!---
-Riyanka139/Riyanka139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building scalable web applications and exploring AI-powered solutions.
+
+- 💻 Working with Angular, React, Node.js, NestJS & Python
+- 🤖 Exploring AI, LLMs & Automation
+- 🌱 Always learning and building
+
+### 🛠️ Tech Stack
+
+**Frontend:** Angular · React · TypeScript · JavaScript · Tailwind CSS
+
+**Backend:** Node.js · NestJS · Python · TypeORM
+
+**Database:** PostgreSQL · MySQL · MongoDB
+
+**Tools & Cloud:** Docker · Git · GitHub Actions · Cloudflare
+
+### 🤝 Connect
+
+[LinkedIn](https://in.linkedin.com/in/riyanka-jariwala) · [Email](mailto:riyanka1309@gmail.com)
+
+---
+
+<p align="center"><i>Code. Learn. Build. Repeat. 🚀</i></p>
